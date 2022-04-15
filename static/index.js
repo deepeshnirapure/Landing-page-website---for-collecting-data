@@ -1,0 +1,1 @@
+console.log("Hello Deepesh ,This code is return in your static folder ..inside index.js file");
